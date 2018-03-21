@@ -1,9 +1,7 @@
 # Welcome!
-
-This Python template lets you get started quickly with a simple one-page playground.
-
+Affecter 1 à la variable a
 ```python runnable
-print('Hello World!')
+a = 1
 ```
 
 # Advanced usage
