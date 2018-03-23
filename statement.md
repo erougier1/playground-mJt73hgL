@@ -7,7 +7,9 @@ de = [1,2,2,3,3,3]
 resultat1 = 0
 resultat2 = 0
 resultat3 = 0
-nb_lancers = eval(input('Nombre de lancers : '))
+
+#nb_lancers = eval(input('Nombre de lancers : '))
+nb_lancers = 100
 
 for i in range(nb_lancers):
 	lancer = sample(de,1)[0]
